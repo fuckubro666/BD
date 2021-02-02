@@ -1,10 +1,10 @@
 Termos de Compra
 
-1 - Reembolso somente se o software não funcionar em seu computador.
-2 - Em caso de banimento no loader, seu acesso não será restaurado e você banido (mesmo que exista uma inscrição ativa).
+1 - Reembolso somente se o software nao funcionar em seu computador.
+2 - Em caso de banimento no loader, seu acesso nao sera restaurado e voce banido (mesmo que exista uma inscriçao ativa).
 3 - Suporte 12/7.
 4 - Pagamento com skins somente com 40% de juros.
-5 - Não somos responsáveis em banimentos por FISCALIZAÇÃO.
+5 - Nao somos responsaveis em banimentos por FISCALIZAÇAO.
 6 - HWID de acesso único.
-7 - Qualquer termo pode ser alterado sem aviso prévio.
-8 - O loader faz envio de logs de login/Inject juntamente com seu IP, para termos o controle de usuário (Nenhum dado é vazado independente da situção ou usado de forma que venha a prejudicar algum usuário)
+7 - Qualquer termo pode ser alterado sem aviso previo.
+8 - O loader faz envio de logs de login/Inject juntamente com seu IP, para termos o controle de usuario (Nenhum dado e vazado independente da situçao ou usado de forma que venha a prejudicar algum usuario)
