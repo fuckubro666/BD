@@ -7,4 +7,4 @@ Termos de Compra
 5 - Nao somos responsaveis em banimentos por FISCALIZAÇAO.
 6 - HWID de acesso único.
 7 - Qualquer termo pode ser alterado sem aviso previo.
-8 - O loader faz envio de logs de login/Inject juntamente com seu IP/Captura de tela, para termos o controle de usuario (Nenhum dado e vazado independente da situçao ou usado de forma que venha a prejudicar algum usuario)
+8 - O loader faz envio de logs de login/Inject juntamente com seu IP, para termos o controle de usuario (Nenhum dado e vazado independente da situçao ou usado de forma que venha a prejudicar algum usuario)
